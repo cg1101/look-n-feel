@@ -1,0 +1,26 @@
+{
+  "name": "look_n_feel",
+  "description": "A test of look and feel.",
+  "main": "index.js",
+  "authors": [
+    "gcheng@appen.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0",
+    "lato-googlefont": "*",
+    "opensans-googlefont": "*",
+    "jquery": "2.2.3",
+    "jquery-ui": "1.10.2",
+    "font-awesome": "3.2.1"
+  }
+}

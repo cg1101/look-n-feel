@@ -1,0 +1,18 @@
+{
+  "name": "look_n_feel",
+  "version": "1.0.0",
+  "description": "A test of look and feel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "run_test"
+  },
+  "author": "gcheng@appen.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1 app/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
